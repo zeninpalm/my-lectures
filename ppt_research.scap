@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScappleDocument Version="1.1" ID="107A599C-7D8C-4FF9-992B-17D1EFD31954">
+    <Notes>
+        <Note ID="0" FontSize="12.0" Position="323.0,174.0" Width="33.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Pros</String>
+            <ConnectedNoteIDs>1-4, 15</ConnectedNoteIDs>
+            <PointsToNoteIDs>1-4, 15</PointsToNoteIDs>
+        </Note>
+        <Note ID="1" FontSize="12.0" Position="323.0,231.0" Width="148.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Analysis of existing issues</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="2" FontSize="12.0" Position="228.75,241.597656" Width="62.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Animation</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="3" FontSize="12.0" Position="273.542969,277.226562" Width="144.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Not much technical terms</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="443.0,283.0" Width="138.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Really Macro View-point</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="588.0,470.0" Width="37.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Cons</String>
+            <ConnectedNoteIDs>6-7, 10, 12, 14, 17</ConnectedNoteIDs>
+            <PointsToNoteIDs>6-7, 10, 12, 14, 17</PointsToNoteIDs>
+        </Note>
+        <Note ID="6" FontSize="12.0" Position="475.0,470.0" Width="78.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Mocked term</String>
+            <ConnectedNoteIDs>5, 8</ConnectedNoteIDs>
+            <PointsToNoteIDs>8</PointsToNoteIDs>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="588.0,527.0" Width="91.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Undefined term</String>
+            <ConnectedNoteIDs>5, 9</ConnectedNoteIDs>
+            <PointsToNoteIDs>9</PointsToNoteIDs>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="372.0,470.0" Width="68.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>业务承载网</String>
+            <ConnectedNoteIDs>6</ConnectedNoteIDs>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="497.0,527.0" Width="56.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>IP承载网</String>
+            <ConnectedNoteIDs>7</ConnectedNoteIDs>
+        </Note>
+        <Note ID="10" FontSize="12.0" Position="588.0,413.0" Width="68.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>大段的文字</String>
+            <ConnectedNoteIDs>5</ConnectedNoteIDs>
+        </Note>
+        <Note ID="11" FontSize="12.0" Position="771.0,187.0" Width="83.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>What we do?</String>
+            <ConnectedNoteIDs>22-25, 29</ConnectedNoteIDs>
+            <PointsToNoteIDs>22-25, 29</PointsToNoteIDs>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="660.0,470.0" Width="104.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>All-in-one solution</String>
+            <ConnectedNoteIDs>5, 13</ConnectedNoteIDs>
+            <PointsToNoteIDs>13</PointsToNoteIDs>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="696.476562,541.144531" Width="56.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>厂家绑定</String>
+            <ConnectedNoteIDs>12</ConnectedNoteIDs>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="492.875,596.019531" Width="104.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>安全服务层级错误</String>
+            <ConnectedNoteIDs>5</ConnectedNoteIDs>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="219.0,317.0" Width="56.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>制造概念</String>
+            <ConnectedNoteIDs>0, 16</ConnectedNoteIDs>
+            <PointsToNoteIDs>16</PointsToNoteIDs>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="131.714844,374.4375" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>全对象化、全线产品标准化、全实例化验证</String>
+            <ConnectedNoteIDs>15</ConnectedNoteIDs>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="614.636719,579.90625" Width="56.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>概念不清</String>
+            <ConnectedNoteIDs>5, 18</ConnectedNoteIDs>
+            <PointsToNoteIDs>18</PointsToNoteIDs>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="615.0,635.0" Width="56.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>应用接口</String>
+            <ConnectedNoteIDs>17, 19-21</ConnectedNoteIDs>
+            <PointsToNoteIDs>19-21</PointsToNoteIDs>
+        </Note>
+        <Note ID="19" FontSize="12.0" Position="615.0,690.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>文件加盖时间戳服务、文件签章和验章服务</String>
+            <ConnectedNoteIDs>18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="20" FontSize="12.0" Position="614.300781,735.382812" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>跨网认证和登录服务、面向全网的授权服务</String>
+            <ConnectedNoteIDs>18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="21" FontSize="12.0" Position="620.875,804.09375" Width="116.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>代办事项和阅批服务</String>
+            <ConnectedNoteIDs>18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="663.0,241.0" Width="116.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>从用户角度解释问题</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="732.824219,277.191406" Width="92.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>宏观上阐述理念</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="804.089844,301.464844" Width="116.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>强调价值而不是技术</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="25" FontSize="12.0" Position="870.605469,260.671875" Width="104.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>不滥用概念和术语</String>
+            <ConnectedNoteIDs>11, 26-27</ConnectedNoteIDs>
+            <PointsToNoteIDs>26-27</PointsToNoteIDs>
+        </Note>
+        <Note ID="26" FontSize="12.0" Position="861.184659,346.397727" Width="56.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>减少文字</String>
+            <ConnectedNoteIDs>25</ConnectedNoteIDs>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="943.823153,340.378551" Width="56.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>减少套话</String>
+            <ConnectedNoteIDs>25, 28</ConnectedNoteIDs>
+            <PointsToNoteIDs>28</PointsToNoteIDs>
+        </Note>
+        <Note ID="28" FontSize="12.0" Position="944.0,395.0" Width="116.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>一个平台，两个管理</String>
+            <ConnectedNoteIDs>27</ConnectedNoteIDs>
+        </Note>
+        <Note ID="29" FontSize="12.0" Position="679.575994,318.367898" Width="68.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>分割子话题</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <AutoFit>0-10, 12-15, 17-18, 21-29</AutoFit>
+    <NoteStyles>
+        <Style Name="Title Text" ID="1FA3CDA5-A164-480A-BCF6-FF781C1AFBD1" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+        <Style Name="Red Text" ID="C2784A2E-DABE-4EC6-8E40-998AB64D5279" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>1.0 0.0 0.0</TextColor>
+        </Style>
+        <Style Name="Brown Bubble" ID="91C83A99-BED8-4CAE-B745-D8E704112C0E" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.290055 0.1523 0.182215</BorderColor>
+            <FillColor>0.940019 0.892907 0.779716</FillColor>
+        </Style>
+        <Style Name="Yellow Bubble" ID="4D3BB09B-02F8-40E8-AA80-D7118B48D809" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.756763 0.785592 0.373258</BorderColor>
+            <FillColor>0.906773 0.910625 0.634363</FillColor>
+        </Style>
+        <Style Name="Green Bubble" ID="89E4B8B8-684D-489D-ADE1-020597022856" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.331867 0.609932 0.356197</BorderColor>
+            <FillColor>0.790123 0.882327 0.80198</FillColor>
+        </Style>
+        <Style Name="Blue Bubble" ID="828159D5-7E05-4E54-89DE-0CFDEF9DDAE1" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.477193 0.557066 0.76433</BorderColor>
+            <FillColor>0.840969 0.866828 0.925903</FillColor>
+        </Style>
+        <Style Name="Pink Bubble" ID="C39CCC3D-ABF1-42D1-98E5-EF7B3EE6B53A" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.747881 0.366532 0.542813</BorderColor>
+            <FillColor>0.918452 0.807302 0.863467</FillColor>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999737 0.986332 0.931298</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>

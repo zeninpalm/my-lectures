@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<opml version="1.0">
+    <head>
+        <title>second day</title>
+        <ownerName></ownerName>
+    </head>
+    <body>
+        <outline text="second day">
+            <outline text="boundaries">
+                <outline text="What is OO?">
+                    <outline text="Mechanism">
+                        <outline text="Inheritance"></outline>
+                        <outline text="Polymorphism"></outline>
+                        <outline text="Class"></outline>
+                        <outline text="Encapsulation"></outline>
+                    </outline>
+                    <outline text="Alan Kay">
+                        <outline text="OO is all about messaging"></outline>
+                    </outline>
+                </outline>
+                <outline text="messaging">
+                    <outline text="losing control">
+                        <outline text="third party"></outline>
+                        <outline text="home-grown"></outline>
+                    </outline>
+                </outline>
+                <outline text="3rd party/Home grown boundary">
+                    <outline text="draw a boundary"></outline>
+                    <outline text="manage dependency between them">
+                        <outline text="interface"></outline>
+                        <outline text="message"></outline>
+                    </outline>
+                </outline>
+                <outline text="Core/Main boundary">
+                    <outline text="Core">
+                        <outline text="Use case">
+                            <outline text="OOSE"></outline>
+                            <outline text="Entities"></outline>
+                            <outline text="Interactors"></outline>
+                            <outline text="Boundaries"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Main">
+                        <outline text="Plugins">
+                            <outline text="depends on core"></outline>
+                            <outline text="core never depends on main"></outline>
+                        </outline>
+                    </outline>
+                </outline>
+                <outline text="Dependency direction">
+                    <outline text="Runtime dependency"></outline>
+                    <outline text="Source code dependency"></outline>
+                    <outline text="Always point from concrete to abstract"></outline>
+                </outline>
+            </outline>
+            <outline text="comments">
+                <outline text="Comment indicates failure">
+                    <outline text="choose names carefully"></outline>
+                    <outline text="comments means refactoring"></outline>
+                </outline>
+                <outline text="Good comment">
+                    <outline text="API"></outline>
+                    <outline text="Legal comments"></outline>
+                    <outline text="Warnings!"></outline>
+                    <outline text="TODO"></outline>
+                    <outline text="Rails">
+                        <outline text="Asset pipeline"></outline>
+                    </outline>
+                </outline>
+                <outline text="Bad comments">
+                    <outline text="Mumbling"></outline>
+                    <outline text="redundant"></outline>
+                    <outline text="Attribution"></outline>
+                    <outline text="Journal"></outline>
+                    <outline text="Closing brace comment"></outline>
+                </outline>
+            </outline>
+            <outline text="format">
+                <outline text="Vertical">
+                    <outline text="file length">
+                        <outline text="Average">
+                            <outline text="100 - 200 lines"></outline>
+                        </outline>
+                        <outline text="Bottom line">
+                            <outline text="500 lines"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="blank lines">
+                        <outline text="collecting inputs"></outline>
+                        <outline text="do the actual work">
+                            <outline text="flow controls">
+                                <outline text="if"></outline>
+                                <outline text="while"></outline>
+                                <outline text="for"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="collecting outputs"></outline>
+                    </outline>
+                </outline>
+                <outline text="Horizontal">
+                    <outline text="indentation">
+                        <outline text="Use space instead of tabs">
+                            <outline text="2 spaces"></outline>
+                            <outline text="4 spaces"></outline>
+                        </outline>
+                        <outline text="consistency"></outline>
+                    </outline>
+                    <outline text="line length">
+                        <outline text="IDE limit"></outline>
+                        <outline text="&lt;= 100"></outline>
+                        <outline text="bottom line">
+                            <outline text="not scroll to the right"></outline>
+                        </outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="objects&amp;data structures">
+                <outline text="getters &amp; setters">
+                    <outline text="Did you expose your implementation?">
+                        <outline text="gas example"></outline>
+                    </outline>
+                    <outline text="Virtual attributes">
+                        <outline text="Uniform access">
+                            <outline text="Bertrand Meyer"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Instance variables position">
+                        <outline text="News paper story">
+                            <outline text="Most important first"></outline>
+                            <outline text="Cancel anytime"></outline>
+                            <outline text="Still understandable"></outline>
+                        </outline>
+                        <outline text="C++">
+                            <outline text="first public"></outline>
+                            <outline text="then private"></outline>
+                            <outline text="pimpl pointer"></outline>
+                        </outline>
+                        <outline text="Java">
+                            <outline text="Convention">
+                                <outline text="First private class variable"></outline>
+                                <outline text="Then public API"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Step down formatting">
+                            <outline text="Public API"></outline>
+                            <outline text="indented: private"></outline>
+                            <outline text="more indented: private"></outline>
+                        </outline>
+                    </outline>
+                </outline>
+                <outline text="difference">
+                    <outline text="objects">
+                        <outline text="hide data"></outline>
+                        <outline text="expose behaviors"></outline>
+                    </outline>
+                    <outline text="data structures">
+                        <outline text="expose data"></outline>
+                        <outline text="no meaningful behavior"></outline>
+                    </outline>
+                </outline>
+                <outline text="advantages">
+                    <outline text="objects">
+                        <outline text="protect us from data changing"></outline>
+                        <outline text="inheritence"></outline>
+                    </outline>
+                    <outline text="data structures">
+                        <outline text="protect us from function changing"></outline>
+                    </outline>
+                </outline>
+                <outline text="disadvantages">
+                    <outline text="objects">
+                        <outline text="can’t hide interface changing"></outline>
+                    </outline>
+                    <outline text="data structures">
+                        <outline text="cant’ hide data changing">
+                            <outline text="Expression Problem"></outline>
+                        </outline>
+                    </outline>
+                </outline>
+            </outline>
+        </outline>
+    </body>
+</opml>
